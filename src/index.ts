@@ -1,5 +1,3 @@
-async function main() {
-  
+export function hello() {
+  return 'Hello, world, Better!';
 }
-
-main();

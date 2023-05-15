@@ -3,6 +3,27 @@
   "version": "1.0.0",
   "main": "lib/index.js",
   "scripts": {
+    "tsc:watch": "tsc -p . --watch",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     "build:jest": "jest",
     "build:tsc": "tsc -p .",
     "dev:jest": "npm run build:jest -- --watch",
